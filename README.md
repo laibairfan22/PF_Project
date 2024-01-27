@@ -1,6 +1,6 @@
-This is a very first project I and my teammate made during our first semester.
-This project is "Restaraunt Management System" based on pure C++ , Concept of File handling and Right use of Arrays.
-
+**Restaurant Management System**********
+**Overview**
+Welcome to the Restaurant Management System project! This C++ application is designed to help restaurant owners and managers efficiently manage their daily operations. The system utilizes arrays for data storage and file handling for persistent storage of information.
 
 
 **INSTRUCTIONS TO EXECUTE**
