@@ -11,13 +11,13 @@ _**Features**_
 
 **File Handling:** Utilize file operations to store and retrieve data for seamless data persistence.
 
-_**INSTRUCTIONS TO EXECUTE**_
+# NSTRUCTIONS TO EXECUTE
 Make sure you have Visual studio Installed in your PC or any other software supporting C++ e-g: DevC++
 Make sure you download entire project. All text files must be present before running.
 Once the project is set, just run source file and all done... !!!
 
 
-_**DEMO**_
+# DEMO
 It consists of two sided interface Admin and Costumer
 For Admin
 You must have credentials to login. Once you successfully logged in you'll see this:
