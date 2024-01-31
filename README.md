@@ -1,9 +1,13 @@
 # Restaurant Management System
 
-_**Overview**_
+## _**Overview**_
+
+
 Welcome to the Restaurant Management System project! This C++ application is designed to help restaurant owners and managers efficiently manage their daily operations. The system utilizes arrays for data storage and file handling for persistent storage of information.
 
-_**Features**_
+## _**Features**_
+
+
 - **Menu Management:** Maintain a list of food items and their details such as name, price, and availability.
 
 - **Order Processing:** Take customer orders, calculate the total bill, and update the inventory accordingly.
@@ -20,7 +24,7 @@ _**Features**_
 
 # DEMO
 It consists of two sided interface Admin and Costumer
-For Admin
+## For Admin
 You must have credentials to login. Once you successfully logged in you'll see this:
 
 
@@ -32,7 +36,7 @@ You must have credentials to login. Once you successfully logged in you'll see t
 
 Now you can handle whatever you want. It will reflect backend files 
 
-For Customer
+## For Customer
 
 
 ![image](https://github.com/laibairfan22/PF_Project/assets/139337014/312d4f34-b01c-4268-ab1d-dd9869dcddc1)
