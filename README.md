@@ -13,9 +13,11 @@ _**Features**_
 - **File Handling:** Utilize file operations to store and retrieve data for seamless data persistence.
 
 # NSTRUCTIONS TO EXECUTE
-Make sure you have Visual studio Installed in your PC or any other software supporting C++ e-g: DevC++
-Make sure you download entire project. All text files must be present before running.
-Once the project is set, just run source file and all done... !!!
+- Make sure you have Visual studio Installed in your PC or any other software supporting C++ e-g: DevC++
+ <br>
+- Make sure you download entire project. All text files must be present before running.
+  <br>
+- Once the project is set, just run source file and all done... !!!
 
 
 # DEMO
