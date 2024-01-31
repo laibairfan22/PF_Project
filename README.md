@@ -1,9 +1,9 @@
 # Restaurant Management System
+# <span style="color:green;">Green Tag</span>
+# <span style="color:red;">Red Tag</span>
+# <span style="color:blue;">Blue Tag</span>
 
 _**Overview**_
-<span style="color: green;">Green Tag</span>
-<span style="color: red;">Red Tag</span>
-<span style="color: blue;">Blue Tag</span>
 Welcome to the Restaurant Management System project! This C++ application is designed to help restaurant owners and managers efficiently manage their daily operations. The system utilizes arrays for data storage and file handling for persistent storage of information.
 
 _**Features**_
